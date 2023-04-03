@@ -3,7 +3,7 @@ import React from "react";
 const AudioLofi = () => {
   return (
     <>
-      <h1 className="text-4xl text-white font-bold">Audio - Lofi</h1>
+      <h1 className="text-3xl text-white font-bold">Audio - Lofi</h1>
       <ul className="flex gap-24 justify-center">
         <li>
           <button className="audio-lofi-1 hover:-translate-y-1 hover:scale-105 w-36 h-36 rounded-xl shadow-2xl">
